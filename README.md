@@ -1,15 +1,15 @@
-# Salut, moi c'est Vlad 👋
+# Salut, moi c'est Zyad 👋
 
-Étudiant en informatique (Licence, 3ᵉ année) et apprenti développeur backend,
-en cours de préparation d'une certification DevSecOps. J'aime comprendre les
-fondations avant les frameworks du moment — systèmes, réseau, sécurité.
+Étudiant en informatique (Bachelor, 3ᵉ année) et apprenti développeur backend,
+en cours d'apprentissage dans le domaine de la cybersécurité. J'aime comprendre les
+fondations de chaque choses afin de mieux de comprendre leur fonctionnement et imaginer ce qu'ils peuvent encore devenir.
 
-🔭 **En ce moment** — un portfolio terminal interactif (Next.js/TypeScript),
-déployé sur un vrai VPS avec un pipeline CI/CD complet (GitHub Actions,
+🔭 **En ce moment** -- un portfolio terminal interactif (Next.js/TypeScript),
+déployé sur un VPS avec un pipeline CI/CD complet (GitHub Actions,
 runner hybride, environnements production/staging).
 👉 **[Découvrir le portfolio](https://github.com/zyad29/terminal_portfolio)**
 
-🌱 **Je creuse en ce moment** — le durcissement d'infrastructure Linux
+🌱 **Je creuse en ce moment** -- le durcissement d'infrastructure Linux
 (systemd, sudoers ciblé, principe du moindre privilège), et le déploiement
 via conteneurs (Docker).
 
