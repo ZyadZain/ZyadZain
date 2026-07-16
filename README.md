@@ -1,7 +1,7 @@
 # Salut, moi c'est Zyad 👋
 
-Étudiant en informatique (Bachelor, 3ᵉ année) et apprenti développeur backend,
-en cours d'apprentissage dans le domaine de la cybersécurité. J'aime comprendre les
+Étudiant en informatique (Bachelor, 3ᵉ année), apprenti développeur backend avec Laravel et
+passionné par la cybersécurité. J'aime comprendre les
 fondations de chaque choses afin de mieux de comprendre leur fonctionnement et imaginer ce qu'ils peuvent encore devenir.
 
 🔭 **En ce moment** -- un portfolio terminal interactif (Next.js/TypeScript),
