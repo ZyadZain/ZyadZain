@@ -7,7 +7,7 @@ fondations de chaque choses afin de mieux de comprendre leur fonctionnement et i
 🔭 **En ce moment** -- un portfolio terminal interactif (Next.js/TypeScript),
 déployé sur un VPS avec un pipeline CI/CD complet (GitHub Actions,
 runner hybride, environnements production/staging).
-👉 **[Découvrir le portfolio](https://github.com/zyad29/terminal_portfolio)**
+👉 **[Découvrir le portfolio](https://zyadzain.fr)**
 
 🌱 **Je creuse en ce moment** -- le durcissement d'infrastructure Linux
 (systemd, sudoers ciblé, principe du moindre privilège), et le déploiement
